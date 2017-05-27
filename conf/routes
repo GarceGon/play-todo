@@ -3,7 +3,7 @@
 # An example controller showing a sample home page
 GET     /                           controllers.HomeController.index
 
-# TO-DO resources routes
+# Task resource routes
 GET     /task                        controllers.TaskController.all
 GET     /task/todo                   controllers.TaskController.todo
 GET     /task/completed              controllers.TaskController.completed
