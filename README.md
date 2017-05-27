@@ -1,6 +1,7 @@
 # Play-Todo
 
 This is an example project made in Play of a one-page application task manager.
+https://play-todo.herokuapp.com
 
 ## Backend
 Developed with [Play framework](https://github.com/playframework/playframework), MySql and Ebean
